@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|d:\\subject\\service-oriented architecture\\ex2\\.net core web service \u2013 mongodb\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|d:\\subject\\service-oriented architecture\\ex2\\.net core web service \u2013 mongodb\\sampleapi\\sampleapi\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|d:\\subject\\service-oriented architecture\\ex2\\.net core web service \u2013 mongodb\\sampleapi\\sampleapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|d:\\subject\\service-oriented architecture\\ex2\\.net core web service \u2013 mongodb\\sampleapi\\sampleapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|d:\\subject\\service-oriented architecture\\ex2\\.net core web service \u2013 mongodb\\sampleapi\\sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE7204-C906-4E2E-BB59-97E67FBFF128}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\BooksController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\BooksController.cs",
+              "ToolTip": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\BooksController.cs",
+              "RelativeToolTip": "SampleAPI\\BooksController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswDwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:53:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\BookService.cs",
+              "ToolTip": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:47:19.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:45:51.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:43:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\Subject\\Service-Oriented Architecture\\Ex2\\.Net Core Web Service \u2013 MongoDB\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:42:47.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
